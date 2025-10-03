@@ -15,4 +15,3 @@
 * 速度$\vec{v}=\cfrac{\mathrm{d}\vec{r}}{\mathrm{d}t}$
 * 加速度$\vec{a}=\cfrac{\mathrm{d}\vec{v}}{\mathrm{d}t}$
 * 急动度$\vec{j}=\cfrac{\mathrm{d}\vec{a}}{\mathrm{d}t}$
-
